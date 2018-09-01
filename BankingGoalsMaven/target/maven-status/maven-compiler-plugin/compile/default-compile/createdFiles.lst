@@ -1,0 +1,8 @@
+com\Banks.class
+com\service\AbstractFacade.class
+com\service\ModelTestService2.class
+com\service\ModelTestService1.class
+com\service\BanksFacadeREST.class
+com\service\BranchesFacadeREST.class
+com\Branches.class
+com\service\ApplicationConfig.class
